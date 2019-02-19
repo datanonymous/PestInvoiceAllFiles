@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "229276586005",
+    "firebase_url": "https://pestinvoice.firebaseio.com",
+    "project_id": "pestinvoice",
+    "storage_bucket": "pestinvoice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229276586005:android:c06433798aba1880",
+        "android_client_info": {
+          "package_name": "ko.alex.pestinvoice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229276586005-gb02osomvhkqs9plculhubl1vda67fi5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ko.alex.pestinvoice",
+            "certificate_hash": "df79795387a5388efe64377c0af39aa3a77b8ffd"
+          }
+        },
+        {
+          "client_id": "229276586005-gosl0ci8g85m44k4c1n9km3ks13iarja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Qp1E7PViHvgOIukv4cIpYqRlv9O4ah4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229276586005-gosl0ci8g85m44k4c1n9km3ks13iarja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

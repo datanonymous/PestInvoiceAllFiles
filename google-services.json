@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "884003243142",
+    "firebase_url": "https://enigmachat3.firebaseio.com",
+    "project_id": "enigmachat3",
+    "storage_bucket": "enigmachat3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884003243142:android:03467304058b8518",
+        "android_client_info": {
+          "package_name": "ko.alex.enigmachat3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884003243142-sp9gqqnstc78j49i981phqjnukiedboo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ko.alex.enigmachat3",
+            "certificate_hash": "df79795387a5388efe64377c0af39aa3a77b8ffd"
+          }
+        },
+        {
+          "client_id": "884003243142-q1fqdgoptrjuh32gdguenu8n85vb02bn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmpN_UIouXH_pIzCGN_ZFIvvCsLA3ImsQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884003243142-q1fqdgoptrjuh32gdguenu8n85vb02bn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
